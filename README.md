@@ -62,7 +62,7 @@ int main() {
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/4bbfa528-d1be-427c-bc75-ac2966a53d7a)
+![image](https://github.com/user-attachments/assets/75cd037d-e081-4058-a7ff-3221ee1d25f8)
 
 ## Result:
   The program is executed successfully
